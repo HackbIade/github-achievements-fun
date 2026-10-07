@@ -7,3 +7,4 @@ Repo chiquito y tonto creado solo para desbloquear achievements de GitHub por di
 
 - [x] Pair Extraordinaire — este commit tiene Co-authored-by
 
+- [x] Quickdraw — PR mergeado en segundos
